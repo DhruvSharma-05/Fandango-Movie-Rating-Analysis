@@ -74,4 +74,3 @@ This project clearly demonstrates that Fandango's displayed ratings are signific
 ---
 
 
-This README file summarizes the project's key points, guiding any reader through the process and findings of the analysis.
